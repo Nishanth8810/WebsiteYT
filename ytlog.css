@@ -1,0 +1,130 @@
+.ytlogo{
+  display: flex;
+  
+  height: 56px;
+  justify-content: space-between;
+  align-items: center;
+  
+  
+}  
+
+  .left-div{
+     width: 140px;
+    margin-left:10px;
+    
+  }
+  
+
+.yt-menu{
+  height: 20px;
+  cursor: pointer;
+  }
+  .hamburger-menu{
+  height: 22px;
+  margin-right: 10px;
+  cursor: pointer;
+  }
+
+
+.search{
+  width: 500px;
+  height: 31px;
+  border-color: gray;
+  border-width: 1px;
+  padding-left: 9px;
+  
+
+}
+.right-secton{
+
+}
+.search{
+  border-top-left-radius: 50px ;
+  border-bottom-left-radius: 50px;
+}
+
+
+.mid-div{
+ flex: 1;
+ margin-left: 90px;
+ margin-right: 35px;
+ display: flex;
+ align-items: center;
+ 
+  
+
+}
+.search-button{
+  width: 40px;
+  height: 35.3px;
+  border-top-right-radius:50px ;
+  border-bottom-right-radius: 50px;
+  display: flex;
+  align-items: center;
+  margin-right: 10px;
+  border:1px solid grey;
+  cursor: pointer;
+  
+}
+.voice-button{
+  height: 36px;
+  width: 40px;
+  border-radius: 20px;
+  border:none;
+  cursor: pointer;
+  
+  
+}
+.right-div{
+
+  width: 225px;
+  margin-left: 40px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-right: 30px;
+  
+  
+
+
+}
+.upload-button{
+  height: 36px;
+  width: 40px;
+  border:none;
+  border-radius: 20px;
+  cursor: pointer;
+}
+.ytappsbutton{
+
+  height: 36px;
+  width: 40px;
+  border-radius: 20px;
+  border: none;
+  cursor: pointer;
+}
+.notification-button{
+width: 41px;
+border-radius: 20px;
+border: none;
+cursor: pointer;
+}
+.user-dp{
+  /* height: 39px; */
+  width: 49px;
+  border-radius: 24px;
+  cursor: pointer;
+
+}
+.head-section{
+  background-color:white;
+  position: fixed;
+  top: 0;
+  width: 100%;
+  border-bottom-width:1px;
+  border-bottom-style: solid;
+  border-bottom-color: rgb(196, 195, 195);
+}
+body{
+  padding-top: 50px;
+}
